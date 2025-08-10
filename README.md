@@ -1,7 +1,3 @@
-<img width="1080" height="2412" alt="Screenshot_20250810-193851 1" src="https://github.com/user-attachments/assets/e2719a5c-c38c-4452-9d97-9719334ad0dd" />
-<img width="1080" height="2412" alt="Screenshot_20250810-193824 1" src="https://github.com/user-attachments/assets/41ccf358-62a1-4805-96b0-12e601f4abfb" />
-<img width="1080" height="2412" alt="Screenshot_20250810-193816 1" src="https://github.com/user-attachments/assets/ea0ea4a9-1a33-4531-a8d0-fb1c5e7ee8be" />
-<img width="1080" height="2412" alt="Screenshot_20250810-193805 1" src="https://github.com/user-attachments/assets/41cebb6a-0548-4b85-929a-deeae921c041" />
 # ExpenseTracker Android App
 
 ## App Overview
@@ -112,3 +108,11 @@ Here are some representative prompts used during the development process with th
     collaboration, key development prompts, and this feature checklist, generated and refined with
     AI assistance.
 
+
+<img width="1080" height="2412" alt="Screenshot_20250810-193851 1" src="https://github.com/user-attachments/assets/e2719a5c-c38c-4452-9d97-9719334ad0dd" />
+<img width="1080" height="2412" alt="Screenshot_20250810-193824 1" src="https://github.com/user-attachments/assets/41ccf358-62a1-4805-96b0-12e601f4abfb" />
+<img width="1080" height="2412" alt="Screenshot_20250810-193816 1" src="https://github.com/user-attachments/assets/ea0ea4a9-1a33-4531-a8d0-fb1c5e7ee8be" />
+<img width="1080" height="2412" alt="Screenshot_20250810-193805 1" src="https://github.com/user-attachments/assets/41cebb6a-0548-4b85-929a-deeae921c041" />
+
+## Apk link
+https://drive.google.com/file/d/1dnjr7eCEHIUYCt28LlhXLlK_qvx8yaqX/view?usp=sharing
